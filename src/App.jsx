@@ -9,7 +9,7 @@ import MainLayout from "./layouts/MainLayout";
 
 import HomePage from "./pages/HomePage";
 import AboutPage from "./pages/AboutPage";
-import NotFoundPage from "./pages/notFoundPage";
+import NotFoundPage from "./pages/NotFoundPage";
 
 const App = () => {
   const router = createBrowserRouter(
